@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="게임 대회 리더보드", layout="centered")
+st.set_page_config(page_title="Eternal Return Masters Season7 Phase1 Qualifiers", layout="centered")
 
 st.title("🏆 2025 게임 챔피언십 리더보드")
 st.markdown("4라운드 점수를 입력하면 자동으로 총점이 계산됩니다.")
